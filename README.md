@@ -1,4 +1,11 @@
 # Kaggle Assignments
+## Performance Summary
+
+| Assignment | Problem Type | Kaggle Rank | Participants | Percentile |
+|------------|-------------|------------:|-------------:|-----------:|
+| NYC Taxi Fare Prediction | Regression | 5 | 1,383 | Top 0.4% |
+| Mushroom Classification | Classification | 48 | 1,040 | Top 4.6% |
+| Sentiment Classification | NLP Classification | 212 | 1,309 | Top 16.2% |
 
 ## Assignment 1: NYC Taxi Fare Prediction
 
